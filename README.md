@@ -83,6 +83,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yesid10&theme=algolia" alt="GitHub Streak" />
 </div>
 
+### <img src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952uj3ww9dw17k8p1ih39cdctol2m5icxmh7khpl81p&ep=v1_gifs_search&rid=200w.gif&ct=g" width="25" /> Gráfico de Contribuciones
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yesid10&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yesid10&theme=algolia&column=4&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
