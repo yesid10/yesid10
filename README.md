@@ -93,6 +93,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yesid10&theme=algolia&column=4&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
+  ## <img src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952uj3ww9dw17k8p1ih39cdctol2m5icxmh7khpl81p&ep=v1_gifs_search&rid=200w.gif&ct=g" width="25" /> <b>Contribution graph</b>
+  
+
+## <img src="https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1" width="25"> <b>Github Stats</b>
+
 ---
 
 ### 📫 ¡Conectemos!
