@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Creando+experiencias+digitales;Código+limpio+y+responsive" alt="Typing SVG" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Creando+experiencias+digitales;Código+limpio+y+responsive")](https://git.io/typing-svg)
 
 ---
 
