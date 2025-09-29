@@ -54,12 +54,19 @@
 
 > 🔥 **Para reclutadores:** Aquí encontrarán mis mejores trabajos con links de demo y código
 
-#### 🛒 Ecommerce de Artesanías Locales
-**Plataforma completa de comercio electrónico**
-- **Tech Stack:** React | TailwindCSS | JavaScript ES6+ | APIs REST
-- **Features:** Catálogo de productos, carrito de compras, diseño responsive
-- 📱 **Demo:** [Ver proyecto en vivo](#)
-- 💻 **Código:** [Ver en GitHub](#)
+#### 🚀 Space Tourism Website
+**Sitio web interactivo de turismo espacial con navegación multi-sección**
+- **Tech Stack:** React | JavaScript ES6+ | CSS3 | Responsive Design
+- **Features:** 
+  - Navegación fluida entre 4 secciones (Home, Destination, Crew, Technology)
+  - Exploración de destinos espaciales (Moon, Mars, Europa, Titan) con datos dinámicos
+  - Perfiles interactivos de tripulación con diseño elegante
+  - Información técnica de vehículos espaciales con UI inmersiva
+  - Diseño responsive y animaciones suaves
+  - Interfaz dark theme con tipografía premium
+- **Highlights:** Diseño centrado en UX con transiciones elegantes y contenido estructurado
+- 📱 **Demo:** [Ver proyecto en vivo](https://space-tourist-website.vercel.app/)
+- 💻 **Código:** [Ver en GitHub](https://github.com/J-Ciro/SpaceLadingPage)
 
 #### 🎨 Dashboard Administrativo
 **Panel de control para gestión de contenido**
