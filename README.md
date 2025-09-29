@@ -84,6 +84,29 @@
 - 📱 **Demo:** [Ver proyecto en vivo](https://modulo2-sprint3.vercel.app/)
 - 💻 **Código:** [Ver en GitHub](https://github.com/startcroft/Air-ticket)
 
+#### 🏢 Sistema de Gestión Empresarial Full Stack
+**Prueba técnica: Aplicación completa de gestión de empresas e inventarios con autenticación**
+- **Tech Stack:** 
+  - **Frontend:** React | Context API | React Router | Tailwindccs | JavaScript ES6+
+  - **Backend:** FastAPI (Python) | SQLAlchemy | JWT Authentication
+  - **Deploy:** Vercel (Frontend) + Render (Backend)
+- **Features:** 
+  - Sistema de autenticación con roles (Administrador/Externo)
+  - CRUD completo de empresas (NIT, nombre, dirección, teléfono)
+  - Gestión de productos multi-empresa con precios en varias monedas
+  - Sistema de inventario con tabla dinámica por empresa
+  - Generación y descarga de reportes en PDF
+  - Encriptación de contraseñas y gestión de sesiones seguras
+  - Arquitectura Atomic Design en componentes
+- **Highlights:** 
+  - Full Stack completo con separación frontend/backend
+  - Implementación de buenas prácticas (código limpio, estructura escalable)
+  - Manejo de estado global y rutas protegidas
+  - Integración de servicios externos (email, PDF generation)
+- 📱 **Demo Frontend:** [Ver aplicación](https://prueba-lite-front-zeta.vercel.app/)
+- 💻 **Código Frontend:** [Ver en GitHub](https://github.com/yesid10/prueba_lite_front)
+- 💻 **Código Backend:** [Ver en GitHub](https://github.com/yesid10/prueba_lite_back)
+
 ---
 
 ### 📊 Estadísticas de GitHub
