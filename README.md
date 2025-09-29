@@ -68,12 +68,21 @@
 - 📱 **Demo:** [Ver proyecto en vivo](https://space-tourist-website.vercel.app/)
 - 💻 **Código:** [Ver en GitHub](https://github.com/J-Ciro/SpaceLadingPage)
 
-#### 🎨 Dashboard Administrativo
-**Panel de control para gestión de contenido**
-- **Tech Stack:** React | TypeScript | Ant Design | Redux
-- **Features:** Gestión de usuarios, métricas en tiempo real, interfaces intuitivas
-- 📱 **Demo:** [Ver proyecto en vivo](#)
-- 💻 **Código:** [Ver en GitHub](#)
+#### ✈️ Sistema de Reserva de Vuelos
+**Aplicación completa de búsqueda y reserva de boletos aéreos**
+- **Tech Stack:** React | Ant Design | useContext | Styled Components | JavaScript ES6+ | Formik | Yup
+- **Features:** 
+  - Sistema de búsqueda de vuelos con filtros (viaje redondo/sencillo)
+  - Selección de origen y destino con validación de formularios
+  - Selector de fechas interactivo para ida y regreso
+  - Gestión de pasajeros con contador dinámico
+  - Campo de código promocional integrado
+  - Sistema completo de selección de asientos
+  - Gestión de estado global con Context API
+  - Diseño responsive y componentes reutilizables
+- **Highlights:** Flujo completo de reserva con UX intuitiva y diseño profesional usando Ant Design
+- 📱 **Demo:** [Ver proyecto en vivo](https://modulo2-sprint3.vercel.app/)
+- 💻 **Código:** [Ver en GitHub](https://github.com/startcroft/Air-ticket)
 
 ---
 
